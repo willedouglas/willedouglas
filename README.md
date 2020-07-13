@@ -1,8 +1,8 @@
 ### Hi there!
 
-My name is Douglas Wille from Brazil (🇧🇷). I'm currently working as Senior Frontend Engineer at [a55](https://a55.tech). 
+My name is **Douglas Wille** from **Brazil** (🇧🇷) and I'm currently working as **Senior Frontend Engineer** at [a55](https://a55.tech). 
 
-I'm passionate about building and scaling products and I've been on the road since 2014.
+I'm **passionate about building and scaling products** and I've been on the road since 2014.
 
 During my professional career I had the opportunity to work in companies of various formats, applying the best development practices (TDD, continuous integration), code review, pair programming and software development methodologies (Scrum, RUP and XP).
 
