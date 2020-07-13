@@ -1,4 +1,4 @@
-### Hi there! 😁
+### Hi there!
 
 My name is Douglas Wille from Brazil (🇧🇷). I'm currently working as Senior Frontend Engineer at [a55](https://a55.tech). 
 
