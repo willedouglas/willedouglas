@@ -10,6 +10,4 @@ Modalities such as B2B and B2C focusing on retail, human resources, supply chain
 
 I strongly believe in the synergy of teamwork and high performance self-reliant teams. I value building products that significantly impact people's lives, helping the places I become increasingly efficient in their work processes.
 
-Would you like to find me?
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willedouglas)](https://www.linkedin.com/in/willedouglas)
