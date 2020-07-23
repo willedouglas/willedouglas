@@ -1,6 +1,6 @@
 ### Hi there!
 
-My name is **Douglas Wille** from **Brazil** 🇧🇷 and I'm currently working as **Senior Frontend Engineer** at [a55](https://a55.tech). 
+My name is **Douglas Wille** from **Brazil** and I'm currently working as **Senior Frontend Engineer** at [a55](https://a55.tech). 
 
 I'm **passionate about building and scaling products** and I've been on the road since 2014.
 
