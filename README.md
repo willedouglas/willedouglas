@@ -1,6 +1,6 @@
 ### Hi there!
 
-My name is **Douglas Wille** from **Brazil** and I'm currently working as **Tech Lead** at [TradersClub](https://tc.com.br/). 
+My name is **Douglas Wille** from **Brazil** and I'm currently working as **Tech Lead** at [TC](https://tc.com.br/). 
 
 I'm **passionate about building and scaling products** and I've been on the road since 2014.
 
