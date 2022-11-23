@@ -1,6 +1,6 @@
 ### Hi there!
 
-My name is **Douglas Wille** from **Brazil** and I'm currently working as **Tech Lead** at [Airbank](https://joinairbank.com/). 
+My name is **Douglas Wille** from **Brazil** and I'm currently working as **Tech Lead** at [Friday Finance](https://fridayfinance.com/). 
 
 I'm **passionate about building and scaling products** and I've been on the road since 2014.
 
