@@ -1,14 +1,10 @@
 ### Hi there!
 
-My name is **Douglas Wille** from **Brazil** and I'm currently working as **Tech Lead** & **Senior Software Engineer** at [Friday Finance](https://fridayfinance.com/). 
+My name is **Douglas Wille** from **Brazil** and I'm an experienced **Tech Lead** & **Senior Software Engineer** with a proven track record spanning 8 years across diverse industries.
 
-I'm **passionate about building and scaling products** and I've been on the road since 2014.
+A results-oriented professional dedicated to driving product development and scalability. Passionate about leveraging technical expertise to lead teams and deliver impactful solutions. I am a versatile Tech Lead and Senior Software Engineer with a deep understanding of various technologies across the software development stack. My expertise spans both backend and frontend development, as well as mobile application development, enabling me to deliver end-to-end solutions with seamless integration.
 
-During my professional career I had the opportunity to work in companies of various formats, applying the best development practices (TDD, continuous integration), code review, pair programming and software development methodologies (Scrum, RUP and XP).
-
-Modalities such as B2B and B2C focusing on retail, human resources, supply chain management, health and accounting. I also went through traditional companies and startups.
-
-I strongly believe in the synergy of teamwork and high performance self-reliant teams. I value building products that significantly impact people's lives, helping the places I become increasingly efficient in their work processes.
+If you are looking for a passionate and driven Tech Lead and Senior Software Engineer with a strong focus on results, team collaboration, and technical excellence, I would be thrilled to connect with you.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willedouglas)](https://www.linkedin.com/in/willedouglas)
 
